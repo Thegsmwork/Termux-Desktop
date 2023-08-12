@@ -1,6 +1,3 @@
-#!/data/data/com.termux/files/usr/bin/bash
-
-## Show usages
 usage() {
 	banner
 	echo -e ${ORANGE}"\nInstall GUI (Openbox Desktop) on Termux"
